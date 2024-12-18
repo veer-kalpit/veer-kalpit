@@ -39,4 +39,4 @@
 ###
 
 <br clear="both">
-![Snake animation](https://github.com/veer-kalpit/veer-kalpit/raw/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/veer-kalpit/veer-kalpit/output/github-contribution-grid-snake.svg" />
