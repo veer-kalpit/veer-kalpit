@@ -39,3 +39,4 @@
 ###
 
 <br clear="both">
+![Snake animation](https://github.com/veer-kalpit/veer-kalpit/raw/output/github-contribution-grid-snake.svg)
