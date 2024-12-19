@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=veer-kalpit.veer-kalpit" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kalpit+Thakur!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+There!+👋;+I'm+Kalpit+Thakur!+😎;" />
 </h1>
 
 <h2 align="center">I’m a dynamic module in the tech ecosystem, optimized for problem-solving and creative solutions.</h2>
