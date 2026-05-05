@@ -10,12 +10,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veer-kalpit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
 
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql"  height="30"/>  <br>
    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" height="30" />
