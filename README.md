@@ -200,7 +200,7 @@ mission: "Bridging the gap between business-critical client demands and scalable
 
 <div align="center">
 
-  <a href="https://portfolio-gamma-eight-45.vercel.app" target="_blank">
+  <a href="https://kalpit-vert.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -216,9 +216,6 @@ mission: "Bridging the gap between business-critical client demands and scalable
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1i2ZxblDrdOHEzd_f7bEmmXVqibjsngBW/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
 
 </div>
 
